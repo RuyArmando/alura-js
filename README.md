@@ -8,7 +8,7 @@ Este é um repositório do curso de JavaScript da Alura onde criamos um playgrou
 
 - [x] [JavaScript: primeiros passos com a linguagem](https://cursos.alura.com.br/course/javascript-introducao)
 - [x] [JavaScript: Programando a Orientação a Objetos](https://cursos.alura.com.br/course/javascritpt-orientacao-objetos)
-- [ ] [JavaScript: Interfaces e Herança em Orientação a Objetos](https://cursos.alura.com.br/course/javascript-polimorfismo)
+- [x] [JavaScript: Interfaces e Herança em Orientação a Objetos](https://cursos.alura.com.br/course/javascript-polimorfismo)
 
 ### 📝 Licença
 
